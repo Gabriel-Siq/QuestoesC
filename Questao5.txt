@@ -1,0 +1,4 @@
+A ideia é apertar o primeiro interruptor e deixar a lâmpada ligada pelo período de tempo necessário para que ela aqueça.
+Depois, desligo o interruptor e aperto no segundo interruptor, deixando o terceiro desligado. Depois disso, vou até a sala das lâmpadas,
+vejo a que está ligada e sei que o interruptor dela é o segundo, depois vejo qual lâmpada está aquecida e descubro que o interruptor
+dela é o primeiro e ,por eliminação, sei que o interruptor da lâmpada que está fria é o terceiro.
